@@ -3,11 +3,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Jhonattan2121">
-  <img height="180em" src="https://readmestats.999857.xyz/api?username=Jhonattan2121&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=Jhonattan2121&layout=compact&show_icons=true&locale=pt-br&theme=dark" alt="Jhonattan2121" />
-    
-  height="180em"/>
+  <a href="https://www.linkedin.com/in/jhonattan-ferri-5256a3166/">
+  <img height="180em" src="https://readmestats.999857.xyz/api?username=jhonattan2121&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://readmestats.999857.xyz/api/top-langs/?username=jhonattan2121&layout=compact&show_icons=true&locale=pt-br&theme=dark" alt="jhonattan2121" height="180em"/>
 </div>
 
 ## Ferramentas já trabalhadas 
