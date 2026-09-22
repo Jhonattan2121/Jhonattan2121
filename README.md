@@ -23,23 +23,6 @@ My edge is turning complex blockchain tech into products that are simple, secure
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonattan2121&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonattan2121&layout=compact&show_icons=true&locale=en&theme=dark"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jhonattan2121&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🛠️ Stack
 
 **Frontend**
